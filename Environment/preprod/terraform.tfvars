@@ -7,8 +7,8 @@
         name     = "ram-rg-preprod"
         location = "West india"
     }
-    rg2 = {
-        name     = "seta-rg-preprod"
+    rg3 = {
+        name     = "setasarita-rg-preprod"
         location = "West india"
     }
 }
